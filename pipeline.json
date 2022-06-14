@@ -1,1 +1,1 @@
-{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"generateFileCLive","dependsOn":[],"location":{"x":244,"y":134}}]}
+{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"generateFileCLive","dependsOn":[],"location":{"x":125,"y":98}},{"task":"generateFileB","dependsOn":[],"location":{"x":406,"y":95}}]}
